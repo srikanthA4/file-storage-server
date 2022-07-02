@@ -1,6 +1,6 @@
 {
   "serverPort" : 5000 ,
-  "dbUrl" : "mongodb+srv://user:1234@cluster0.0gko1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "dbUrl" : "mongodb+srv://srikanth:9WOkJO3sKxT7s8zE@cluster0.bekut.mongodb.net/test",
   "secretKey": "mern-secret-key",
   "filePath" : "H:\\mern-cloud-disk_server\\files",
   "staticPath" : "H:\\mern-cloud-disk_server\\static"
